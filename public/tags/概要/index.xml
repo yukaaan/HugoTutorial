@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>概要 on HUGO初心者向け！サイト制作チュートリアル</title>
+    <link>https://yuka-pf.sakura.ne.jp/tags/%E6%A6%82%E8%A6%81/</link>
+    <description>Recent content in 概要 on HUGO初心者向け！サイト制作チュートリアル</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuka-pf.sakura.ne.jp/tags/%E6%A6%82%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGOについて</title>
+      <link>https://yuka-pf.sakura.ne.jp/tutorials/about_hugo/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuka-pf.sakura.ne.jp/tutorials/about_hugo/</guid>
+      <description>HUGO とは HUGO とは一言でいうと数ある「静的サイトジェネレータ」のうちのひとつです。 「静的サイトジェネレータ」とは「Static Site Generator （= SSG）」を</description>
+    </item>
+    
+  </channel>
+</rss>

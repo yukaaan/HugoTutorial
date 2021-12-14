@@ -1,0 +1,55 @@
+baseURL = 'https://yuka-pf.sakura.ne.jp/'
+title = 'HUGO初心者向け！サイト制作チュートリアル'
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+theme = "hyde-hyde"
+
+## Site Settings
+[params]
+    author = "Author"
+    title = "Title"
+    description = "Description"
+    meta = { description = "HUGO初心者がサイトを作成するためのチュートリアルを掲載しています。わかりやすい画像つきの解説、躓きやすいポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。" }   
+    authorimage = "/img/hugo.png"
+    dateFormat = "2006-01-02"
+    image = "Image"
+    customCSS = ["/css/custom.css"]
+    description = "HUGO初心者がサイトを作成するためのチュートリアルを掲載しています。わかりやすい画像つきの解説、躓きやすいポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。"
+    # sidebar, copyright & license
+    #logoimage = "/img/hugo.png"
+    copyright = "yuka"
+    since = 2021
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = false
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"## Main Menu
+[[menu.main]]
+    name = "Tutorials"
+    weight = 100
+    identifier = "tutorials"
+    url = "/tutorials/"
+[[menu.main]]
+    name = "Profile"
+    identifier = "profile"
+    weight = 200
+    url = "/profile/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+[blackfriday]
+  hrefTargetBlank = true

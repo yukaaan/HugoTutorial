@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo new site on HUGO初心者向け！サイト制作チュートリアル</title>
+    <link>https://yuka-pf.sakura.ne.jp/tags/hugo-new-site/</link>
+    <description>Recent content in hugo new site on HUGO初心者向け！サイト制作チュートリアル</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuka-pf.sakura.ne.jp/tags/hugo-new-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No.02 サイトを作成</title>
+      <link>https://yuka-pf.sakura.ne.jp/tutorials/tutorial_02/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuka-pf.sakura.ne.jp/tutorials/tutorial_02/</guid>
+      <description>サイトを作成する とりあえずサイトをつくってみます。 HUGO ではコマンドを入力して新しいサイトを作成します。 1. コマンドプロンプトまたは VSCode のターミナル</description>
+    </item>
+    
+  </channel>
+</rss>
