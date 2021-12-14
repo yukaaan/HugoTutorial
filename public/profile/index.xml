@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profile on HUGO初心者向け！サイト制作チュートリアル</title>
-    <link>https://yuka-pf.sakura.ne.jp/profile/</link>
+    <link>https://musing-kare-c22d6b.netlify.app/profile/</link>
     <description>Recent content in Profile on HUGO初心者向け！サイト制作チュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuka-pf.sakura.ne.jp/profile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://musing-kare-c22d6b.netlify.app/profile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Profile</title>
-      <link>https://yuka-pf.sakura.ne.jp/profile/about_me/</link>
+      <link>https://musing-kare-c22d6b.netlify.app/profile/about_me/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yuka-pf.sakura.ne.jp/profile/about_me/</guid>
+      <guid>https://musing-kare-c22d6b.netlify.app/profile/about_me/</guid>
       <description>「WEB サイト作ってみたいな」という遊び半分な気持ちからスタートさせた HTML と CSS の勉強。そのおもしろさに気づき、ネットでプログラミングスクールを</description>
     </item>
     
