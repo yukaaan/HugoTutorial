@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo new site on HUGO初心者向け！サイト制作チュートリアル</title>
-    <link>https://musing-kare-c22d6b.netlify.app/tags/hugo-new-site/</link>
+    <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/hugo-new-site/</link>
     <description>Recent content in hugo new site on HUGO初心者向け！サイト制作チュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://musing-kare-c22d6b.netlify.app/tags/hugo-new-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-tutorial-for-bigenner.netlify.app/tags/hugo-new-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No.02 サイトを作成</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_02/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_02/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_02/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_02/</guid>
       <description>サイトを作成する とりあえずサイトをつくってみます。 HUGO ではコマンドを入力して新しいサイトを作成します。 1. コマンドプロンプトまたは VSCode のターミナル</description>
     </item>
     

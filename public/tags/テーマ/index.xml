@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>テーマ on HUGO初心者向け！サイト制作チュートリアル</title>
-    <link>https://musing-kare-c22d6b.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/</link>
+    <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/</link>
     <description>Recent content in テーマ on HUGO初心者向け！サイト制作チュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://musing-kare-c22d6b.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No.04 テーマをダウンロードする</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_04/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_04/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_04/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_04/</guid>
       <description>テーマをダウンロードする テーマとは テーマとは、他の人が作ってくれたサイトのデザインです。 テーマを使用すると、おしゃれなデザインが多いので初心</description>
     </item>
     

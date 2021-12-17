@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on HUGO初心者向け！サイト制作チュートリアル</title>
-    <link>https://musing-kare-c22d6b.netlify.app/tutorials/</link>
+    <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/</link>
     <description>Recent content in Tutorials on HUGO初心者向け！サイト制作チュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://musing-kare-c22d6b.netlify.app/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-tutorial-for-bigenner.netlify.app/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No.04 テーマをダウンロードする</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_04/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_04/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_04/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_04/</guid>
       <description>テーマをダウンロードする テーマとは テーマとは、他の人が作ってくれたサイトのデザインです。 テーマを使用すると、おしゃれなデザインが多いので初心</description>
     </item>
     
     <item>
       <title>No.03 サイトの構造</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_03/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_03/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_03/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_03/</guid>
       <description>サイトの構造 Tutorial No.02で作成した「example_site」の中身はどんな構造になっているか見てみましょう。 また、それぞれのフォルダ・ファ</description>
     </item>
     
     <item>
       <title>No.02 サイトを作成</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_02/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_02/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_02/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_02/</guid>
       <description>サイトを作成する とりあえずサイトをつくってみます。 HUGO ではコマンドを入力して新しいサイトを作成します。 1. コマンドプロンプトまたは VSCode のターミナル</description>
     </item>
     
     <item>
       <title>No.01 ダウンロード</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_01/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_01/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/tutorial_01/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_01/</guid>
       <description>HUGO をダウンロードする HUGO のダウンロード方法を説明していきます。 1. GitHubへアクセスして HUGO の zip ファイルをダウンロードします。 Note: 自分の PS に合っ</description>
     </item>
     
     <item>
       <title>HUGOについて</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/about_hugo/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/about_hugo/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/about_hugo/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/about_hugo/</guid>
       <description>HUGO とは HUGO とは一言でいうと数ある「静的サイトジェネレータ」のうちのひとつです。 「静的サイトジェネレータ」とは「Static Site Generator （= SSG）」を</description>
     </item>
     

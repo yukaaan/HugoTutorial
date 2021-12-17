@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>概要 on HUGO初心者向け！サイト制作チュートリアル</title>
-    <link>https://musing-kare-c22d6b.netlify.app/tags/%E6%A6%82%E8%A6%81/</link>
+    <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E6%A6%82%E8%A6%81/</link>
     <description>Recent content in 概要 on HUGO初心者向け！サイト制作チュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://musing-kare-c22d6b.netlify.app/tags/%E6%A6%82%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-tutorial-for-bigenner.netlify.app/tags/%E6%A6%82%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HUGOについて</title>
-      <link>https://musing-kare-c22d6b.netlify.app/tutorials/about_hugo/</link>
+      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/about_hugo/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-kare-c22d6b.netlify.app/tutorials/about_hugo/</guid>
+      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/about_hugo/</guid>
       <description>HUGO とは HUGO とは一言でいうと数ある「静的サイトジェネレータ」のうちのひとつです。 「静的サイトジェネレータ」とは「Static Site Generator （= SSG）」を</description>
     </item>
     
