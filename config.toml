@@ -17,7 +17,7 @@ theme = "hyde-hyde"
     customCSS = ["/css/custom.css"]
     description = "HUGO初心者がサイトを作成するためのチュートリアルを掲載しています。わかりやすい画像つきの解説、躓きやすいポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。"
     # sidebar, copyright & license
-    #logoimage = "/img/hugo.png"
+    logoimage = "/img/hugo.png"
     copyright = "yuka"
     since = 2021
     license = "CC BY-SA 4.0"
