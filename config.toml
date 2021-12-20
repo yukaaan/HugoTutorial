@@ -1,5 +1,5 @@
 baseURL = 'https://hugo-tutorial-for-bigenner.netlify.app'
-title = 'HUGO初心者向け！サイト制作チュートリアル'
+title = 'HUGOでサイトを作ろう！初心者向けチュートリアル'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
@@ -10,12 +10,12 @@ theme = "hyde-hyde"
     author = "Author"
     title = "Title"
     description = "Description"
-    meta = { description = "HUGO初心者がサイトを作成するためのチュートリアルを掲載しています。わかりやすい画像つきの解説、躓きやすいポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。" }   
+    meta = { description = "HUGO初心者がサイトを作成するためのチュートリアルを初歩から掲載しています。画像付きの解説、ポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。" }   
     authorimage = "/media/img/prof2.jpg"
     dateFormat = "2006-01-02"
     image = "Image"
     customCSS = ["/css/custom.css"]
-    description = "HUGO初心者がサイトを作成するためのチュートリアルを掲載しています。わかりやすい画像つきの解説、躓きやすいポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。"
+    description = "HUGO初心者がサイトを作成するためのチュートリアルを初歩から掲載しています。画像付きの解説、ポイントなど。初心者でも簡単にHUGOでサイトを作成できるようになります。"
     # sidebar, copyright & license
     #logoimage = "/img/hugo.png"
     copyright = "yuka"
