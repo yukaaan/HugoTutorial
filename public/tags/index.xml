@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HUGOでサイトを作ろう！初心者向けチュートリアル</title>
-    <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/</link>
+    <link>https://hugo-site-tutorial.netlify.app/tags/</link>
     <description>Recent content in Tags on HUGOでサイトを作ろう！初心者向けチュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-tutorial-for-bigenner.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-site-tutorial.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>04</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/04/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/04/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/04/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/hugo/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/hugo/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/hugo/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ダウンロード</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</guid>
       <description></description>
     </item>
     
     <item>
       <title>チュートリアル</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>テーマ</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E3%83%86%E3%83%BC%E3%83%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>03</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/03/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/03/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/03/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>サイトの構造</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E6%A7%8B%E9%80%A0/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E6%A7%8B%E9%80%A0/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E6%A7%8B%E9%80%A0/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E6%A7%8B%E9%80%A0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>02</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/02/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/02/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/02/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo new site</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/hugo-new-site/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/hugo-new-site/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/hugo-new-site/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/hugo-new-site/</guid>
       <description></description>
     </item>
     
     <item>
       <title>サイトを作成</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>01</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/01/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/01/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/01/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSG</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/ssg/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/ssg/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/ssg/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/ssg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>概要</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E6%A6%82%E8%A6%81/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E6%A6%82%E8%A6%81/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E6%A6%82%E8%A6%81/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E6%A6%82%E8%A6%81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>特徴</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E7%89%B9%E5%BE%B4/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E7%89%B9%E5%BE%B4/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E7%89%B9%E5%BE%B4/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E7%89%B9%E5%BE%B4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>静的サイトジェネレータ</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
       <description></description>
     </item>
     

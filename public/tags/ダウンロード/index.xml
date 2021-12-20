@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ダウンロード on HUGOでサイトを作ろう！初心者向けチュートリアル</title>
-    <link>https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</link>
+    <link>https://hugo-site-tutorial.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</link>
     <description>Recent content in ダウンロード on HUGOでサイトを作ろう！初心者向けチュートリアル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-tutorial-for-bigenner.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-site-tutorial.netlify.app/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No.04 テーマをダウンロードする</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_04/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tutorials/tutorial_04/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_04/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tutorials/tutorial_04/</guid>
       <description>テーマをダウンロードする テーマとは テーマとは、他の人が作ってくれたサイトのデザインです。 テーマを使用すると、おしゃれなデザインが多いので初心</description>
     </item>
     
     <item>
       <title>No.01 ダウンロード</title>
-      <link>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_01/</link>
+      <link>https://hugo-site-tutorial.netlify.app/tutorials/tutorial_01/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-tutorial-for-bigenner.netlify.app/tutorials/tutorial_01/</guid>
+      <guid>https://hugo-site-tutorial.netlify.app/tutorials/tutorial_01/</guid>
       <description>HUGO をダウンロードする HUGO のダウンロード方法を説明していきます。 1. GitHubへアクセスして HUGO の zip ファイルをダウンロードします。 Note: 自分の PS に合っ</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = 'https://hugo-tutorial-for-bigenner.netlify.app'
+baseURL = 'https://hugo-site-tutorial.netlify.app'
 title = 'HUGOでサイトを作ろう！初心者向けチュートリアル'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
