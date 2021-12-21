@@ -3,7 +3,6 @@
   padding: 0.5em 0.5em 0.5em 0em;
   background: #eee;
 }
-
 .toc-wrapper label {
   background: url(/img/menu-close-dark.svg) no-repeat right center;
   display: block;
@@ -16,12 +15,10 @@
   margin-top: 0;
   max-height: 100%;
 }
-
 #TableOfContents > ul {
   list-style-type: none;
   padding-left: 0;
 }
-
 #TableOfContents > ul > li ul {
   list-style-type: none;
   padding-left: 1em;
@@ -30,15 +27,12 @@
 input#tocToggle {
   display: none;
 }
-
 input#tocToggle + label {
   font-weight: bold;
 }
-
 input#tocToggle:checked + label {
   background-image: url(/img/menu-open-dark.svg);
 }
-
 input#tocToggle:checked ~ #TableOfContents {
   max-height: 0;
 }

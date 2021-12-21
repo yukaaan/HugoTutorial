@@ -6,13 +6,13 @@
 
     <head>
     
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HRYXXMXZEP"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFNBPME2V0"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
-        gtag('config', 'G-HRYXXMXZEP');
+        gtag('config', 'G-HFNBPME2V0');
     </script>
     <link href="https://gmpg.org/xfn/11" rel="profile">
     
@@ -73,6 +73,8 @@
     <link rel="shortcut icon" href="/favicon.png">
     
     <link rel="stylesheet" href="/css/custom.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css">
+<script src="https://kit.fontawesome.com/f566fba283.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -84,7 +86,7 @@
       <span class="site__title">
         <a href="https://hugo-site-tutorial.netlify.app">
         
-          HUGOでサイトを作ろう！初心者向けチュートリアル
+          <span>HUGOでサイトを作ろう！<span>初心者向けチュートリアル</span></span>
         
         </a>
       </span>
@@ -104,7 +106,7 @@
     </div>
     <div class="collapsible-menu">
       <input type="checkbox" id="menuToggle">
-      <label for="menuToggle">HUGOでサイトを作ろう！初心者向けチュートリアル</label>
+      <label for="menuToggle"><span>HUGOでサイトを作ろう！<span>初心者向けチュートリアル</span></span></label>
       <div class="menu-content">
         <div>
 	<ul class="sidebar-nav">
@@ -242,13 +244,13 @@
     <h2 id="サイトを作成する">サイトを作成する</h2>
 <p>とりあえずサイトをつくってみます。
 HUGO ではコマンドを入力して新しいサイトを作成します。</p>
-<h4 id="1-コマンドプロンプトまたは-vscode-のターミナルを立ち上げます">1. コマンドプロンプトまたは VSCode のターミナルを立ち上げます。</h4>
+<h3 id="コマンドプロンプトまたは-vscode-のターミナルを立ち上げます">コマンドプロンプトまたは VSCode のターミナルを立ち上げます。</h3>
 <figure><img src="/media/img/tutorial_02/tutorial_02_01.png"
          alt="コマンドプロンプト" width="396" height="201"/>
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     コマンドプロンプトを起動する方法は window ＋ R キーを押しすと写真のような入力画面が出てくるので「cmd」と入力、OK を押します。(windows の場合)
 </blockquote>
 
@@ -257,11 +259,11 @@ HUGO ではコマンドを入力して新しいサイトを作成します。</p
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     VSCode の場合は Ctrl + @ でショートカットでターミナルが開けます。
 </blockquote>
 
-<h4 id="2-tutorial-no01tutorialstutorial_01で作成したhugoフォルダへ移動します">2. <a href="/tutorials/tutorial_01">Tutorial No.01</a>で作成した「Hugo」フォルダへ移動します。</h4>
+<h3 id="tutorial-no01tutorialstutorial_01で作成したhugoフォルダへ移動します"><a href="/tutorials/tutorial_01">Tutorial No.01</a>で作成した「Hugo」フォルダへ移動します。</h3>
 <figure><img src="/media/img/tutorial_02/tutorial_02_03.png"
          alt="フォルダ1" width="781" height="422"/>
 </figure>
@@ -271,7 +273,7 @@ HUGO ではコマンドを入力して新しいサイトを作成します。</p
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     移動したいフォルダを開いて画像（1 枚目）の赤い丸をクリックすると「C:￥ Hugo」のように画像（2 枚目）表示してくれるのでそのままコピーしてください。渡しの場合は「C:￥ Hugo」でしたが作った場所によって違います。
 </blockquote>
 
@@ -280,18 +282,18 @@ HUGO ではコマンドを入力して新しいサイトを作成します。</p
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     ターミナルに<code>cd</code>と入力した後、続けて先程コピーした<code>C:￥Hugo</code>を貼り付けます。赤い線の様になっていれば OK です。
 そして Enter すると「C:￥ Hugo」に移動できます。
 </blockquote>
 
-<h4 id="3-コマンドhugo-new-site-example_siteを入力します">3. コマンド　<code>hugo new site example_site</code>　を入力します。</h4>
+<h3 id="コマンドhugo-new-site-example_siteを入力します">コマンド<code>hugo new site example_site</code>を入力します。</h3>
 <figure><img src="/media/img/tutorial_02/tutorial_02_06.png"
          alt="コマンド入力2" width="835" height="321"/>
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     <code>example_site</code>の部分はサイトの名前です。自由に設定してください。
 </blockquote>
 
@@ -300,7 +302,7 @@ HUGO ではコマンドを入力して新しいサイトを作成します。</p
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     入力が成功するとこのようにメッセージが表示され、サイトが作成されます。
 </blockquote>
 
@@ -309,7 +311,7 @@ HUGO ではコマンドを入力して新しいサイトを作成します。</p
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     「Hugo」フォルダを開いて「example_site」フォルダが作成されていれば成功です。
 </blockquote>
 

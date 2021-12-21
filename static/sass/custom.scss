@@ -1,10 +1,36 @@
 .content {
-  max-width: calc(1650px - 18rem);
+  max-width: calc(1650px - 20rem);
 }
+
 .sidebar {
-  .site__title {
-    a {
-      font-size: 23px;
+  width: 20rem;
+  @media screen and (max-width: 768px) {
+    width: 100%;
+  }
+  .container {
+    @media screen and (max-width: 350px) {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .site__title {
+      a {
+        span {
+          font-size: 24px;
+          > span {
+            display: inline-block;
+          }
+        }
+      }
+    }
+    .collapsible-menu {
+      label {
+        span {
+          font-size: 24px;
+          > span {
+            display: inline-block;
+          }
+        }
+      }
     }
   }
 }
@@ -80,6 +106,12 @@ figure {
   border: 5px solid #f6f6f6;
   border-bottom: none;
   border-radius: 10px 10px 0 0;
+  @media screen and (max-width: 768px) {
+    padding: 15px;
+  }
+  @media screen and (max-width: 480px) {
+    padding: 8px;
+  }
   img {
     margin: 0 auto;
     height: auto;
@@ -105,5 +137,11 @@ figure {
         }
       }
     }
+  }
+}
+
+.col-sm-8 {
+  @media (min-width: 768px) {
+    width: 100%;
   }
 }

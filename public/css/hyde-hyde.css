@@ -14,7 +14,6 @@ html {
   font-size: 17px;
   line-height: 1.667em;
 }
-
 @media (min-width: 38em) {
   html {
     font-size: 19px;
@@ -32,11 +31,9 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
-
 a:hover, a:focus {
   text-decoration: underline;
 }
-
 a strong {
   color: inherit;
 }
@@ -58,7 +55,7 @@ table {
 
 td,
 th {
-  padding: .25rem .5rem;
+  padding: 0.25rem 0.5rem;
   border: 1px solid #e5e5e5;
 }
 
@@ -87,10 +84,9 @@ footer {
 .post {
   margin-bottom: 4em;
 }
-
 .page li + li,
 .post li + li {
-  margin-top: .25rem;
+  margin-top: 0.25rem;
 }
 
 .page-title,
@@ -106,7 +102,7 @@ footer {
 
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: -0.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
@@ -123,21 +119,17 @@ footer {
   padding-left: 0;
   list-style: none;
 }
-
 .related-posts h3 {
   margin-top: 0;
 }
-
 .related-posts li small {
   font-size: 75%;
   color: #999;
 }
-
 .related-posts li a:hover {
   color: #268bd2;
   text-decoration: none;
 }
-
 .related-posts li a:hover small {
   color: inherit;
 }
@@ -198,7 +190,7 @@ figure {
   padding: 0;
 }
 
-blockquote, .important, .warning {
+.warning, .important, blockquote {
   padding: 0.8889rem;
   margin-top: 1rem;
   margin-left: 0px;
@@ -247,17 +239,14 @@ a {
   text-decoration: none;
   word-wrap: break-word;
 }
-
 a.sidebar-nav-item:hover {
   border-style: none;
   text-decoration: none;
 }
-
 a.sidebar-nav-item:focus {
   border-style: none;
   text-decoration: none;
 }
-
 a:focus {
   color: #515151;
   border-bottom: 1px dotted #ccc;
@@ -266,12 +255,10 @@ a:focus {
   background-color: transparent;
   word-wrap: break-word;
 }
-
 a:focus.tag {
   border-style: none;
   text-decoration: none;
 }
-
 a:hover {
   color: #515151;
   border-bottom: 1px dotted #ccc;
@@ -280,17 +267,14 @@ a:hover {
   background-color: transparent;
   word-wrap: break-word;
 }
-
 a:hover.tag {
   border-style: none;
   text-decoration: none;
 }
-
 a.tag {
   border-style: none;
   text-decoration: none;
 }
-
 a.read-more-symbol {
   text-decoration: none;
   border-style: none;
@@ -309,24 +293,19 @@ a.read-more-symbol {
   padding: 2rem 1rem;
   text-align: center;
 }
-
 .sidebar a {
   color: #f9f9f9;
   border: none;
 }
-
 .sidebar a:hover {
   color: #268bd2;
 }
-
 .sidebar a:focus {
   color: #268bd2;
 }
-
 .sidebar .sidebar-about {
   text-align: center;
 }
-
 .sidebar .author-image {
   display: block;
   margin-top: 4px;
@@ -344,7 +323,6 @@ a.read-more-symbol {
   display: block;
   line-height: 1.75;
 }
-
 .sidebar-nav-item .active {
   font-weight: bold;
 }
@@ -353,7 +331,6 @@ a.read-more-symbol {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
 }
-
 .site__title a:hover {
   border: none;
 }
@@ -366,7 +343,6 @@ a.read-more-symbol {
 .social {
   text-align: center;
 }
-
 .social a {
   padding: 0 4px;
   border-style: none;
@@ -386,7 +362,7 @@ a.read-more-symbol {
   font-style: italic;
 }
 
-.copyright, .builtwith {
+.builtwith, .copyright {
   font-size: 0.7rem;
   line-height: 1.1rem;
   text-align: center;
@@ -397,7 +373,7 @@ a.read-more-symbol {
 }
 
 .builtwith {
-  padding-top: .2rem;
+  padding-top: 0.2rem;
 }
 
 .section__title {
@@ -422,8 +398,8 @@ a.read-more-symbol {
   color: #9a9a9a;
   display: block;
   font-size: 1rem;
-  margin-bottom: .2rem;
-  margin-top: .2rem;
+  margin-bottom: 0.2rem;
+  margin-top: 0.2rem;
 }
 
 .post__meta {
@@ -475,7 +451,6 @@ pre {
     -o-tab-size: 2;
        tab-size: 2;
 }
-
 pre code {
   white-space: pre-wrap;
 }
@@ -486,7 +461,7 @@ code {
 }
 
 code {
-  padding: .1em .1em;
+  padding: 0.1em 0.1em;
   color: #ab5979;
   border-radius: 3px;
 }
@@ -551,11 +526,9 @@ body .gist {
 body .gist .gist-data {
   background-color: #fafafa;
 }
-
 body .gist .highlight {
   background-color: transparent;
 }
-
 body .gist td {
   border: none;
 }
@@ -563,15 +536,12 @@ body .gist td {
 ul.pagination {
   list-style: none;
 }
-
 ul.pagination li.page-item {
   display: inline-block;
 }
-
 ul.pagination li.page-item a {
   padding: 0.05em 0.4em;
 }
-
 ul.pagination li.page-item.active a {
   color: #c2255c;
   border-bottom: 3px solid #c2255c;
@@ -582,7 +552,6 @@ ul.pagination li.page-item.active a {
   margin: 0 auto;
   margin-top: 60px;
 }
-
 .navigation a {
   font-size: 0.8rem;
   display: -webkit-box;
@@ -603,44 +572,34 @@ ul.pagination li.page-item.active a {
   line-height: 1.25;
   text-transform: uppercase;
 }
-
 .navigation a:hover {
   padding: 14px;
   border-width: 3px;
 }
-
 .navigation a:nth-child(2) {
   margin-top: 10px;
 }
-
 .navigation a:first-child:last-child {
   width: 100%;
 }
-
 .navigation .fa {
   font-size: 0.8rem;
 }
-
 .navigation .navigation-prev {
   text-align: left;
 }
-
 .navigation .navigation-prev .fa {
   padding-right: 10px;
 }
-
 .navigation .navigation-prev .navigation-tittle {
   padding-left: 4px;
 }
-
 .navigation .navigation-next {
   text-align: right;
 }
-
 .navigation .navigation-next .fa {
   padding-left: 10px;
 }
-
 .navigation .navigation-next .navigation-tittle {
   padding-right: 4px;
 }
@@ -654,7 +613,6 @@ a.badge-category {
   color: #fff !important;
   background-color: #0088cc;
 }
-
 .badge-category:hover, .badge-category:focus,
 a.badge-category:hover,
 a.badge-category:focus {
@@ -670,7 +628,6 @@ a.badge-tag {
   color: #fff !important;
   background-color: #7766cc;
 }
-
 .badge-tag:hover, .badge-tag:focus,
 a.badge-tag:hover,
 a.badge-tag:focus {
@@ -700,7 +657,6 @@ a.badge-tag:focus {
 .portfolio__featured-project {
   margin: 0 0 1.765rem;
 }
-
 .portfolio__featured-project img {
   margin: 0 0 1rem;
   -webkit-box-shadow: 1px 1px #eee;
@@ -719,7 +675,7 @@ a.badge-tag:focus {
   font-size: 1.85rem;
 }
 
-.project__subtitle-big, .project__subtitle-small {
+.project__subtitle-small, .project__subtitle-big {
   font-style: italic;
   color: #778492;
   display: block;
@@ -752,7 +708,7 @@ a.badge-tag:focus {
   margin-bottom: 1rem;
 }
 
-.col-xs-12, .col-sm-4, .col-md-4, .col-sm-8, .col-md-8 {
+.col-md-8, .col-sm-8, .col-md-4, .col-sm-4, .col-xs-12 {
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
@@ -776,47 +732,57 @@ a.badge-tag:focus {
 
 @media (min-width: 320px) and (max-width: 767px) {
   html,
-  body {
+body {
     font-size: 17px;
   }
+
   .sidebar li {
-    padding: .1rem 0;
+    padding: 0.1rem 0;
   }
   .sidebar .container {
     padding-left: 0;
     padding-right: 0;
   }
+
   .hidden-tablet {
     display: none;
   }
+
   .sidebar-about,
-  .copyright {
+.copyright {
     display: none;
   }
+
   .sidebar {
     margin: 0;
     padding: 0;
   }
+
   .menu-content {
     padding: 0 0 0 0px;
     max-height: 0;
     overflow: hidden;
     margin-top: 0;
   }
+
   .collapsible-menu {
     padding: 0px 0px;
   }
+
   .collapsible-menu ul {
     list-style-type: none;
     padding: 0;
   }
+
   .collapsible-menu li {
     display: block;
   }
+
   .collapsible-menu a {
     text-decoration: none;
     cursor: pointer;
   }
+
   .collapsible-menu label {
     background: url(/img/menu-open.svg) no-repeat left center;
     background-position: 1.5rem;
@@ -825,30 +791,35 @@ a.badge-tag:focus {
     color: #fff;
     padding: 10px 0 10px 0px;
   }
+
   input#menuToggle {
     display: none;
   }
+
   input#menuToggle + label {
     font-weight: bold;
   }
+
   input#menuToggle:checked + label {
     background-image: url(/img/menu-close.svg);
     background-position: 1.5rem;
     color: #fff;
   }
+
   input#menuToggle:checked ~ .menu-content {
     max-height: 100% !important;
   }
+
   .social {
     padding: 1em 0 1em 0;
   }
 }
-
 @media (min-width: 768px) {
   html,
-  body {
+body {
     font-size: 17px;
   }
+
   .sidebar {
     bottom: 0;
     left: 0;
@@ -857,17 +828,20 @@ a.badge-tag:focus {
     top: 0;
     width: 16rem;
   }
+
   .sidebar-sticky {
     left: 1rem;
     position: absolute;
     right: 1rem;
     top: 1rem;
   }
+
   .content {
     margin-left: 18rem;
     margin-right: 2rem;
     max-width: 38rem;
   }
+
   .layout-reverse .sidebar {
     left: auto;
     right: 0;
@@ -876,12 +850,15 @@ a.badge-tag:focus {
     margin-left: 2rem;
     margin-right: 18rem;
   }
+
   .col-sm-8 {
     width: 66.66666667%;
   }
+
   .project__title {
     margin-top: 0.2rem;
   }
+
   .navigation {
     display: -webkit-box;
     display: -webkit-flex;
@@ -898,34 +875,37 @@ a.badge-tag:focus {
   .navigation a:nth-child(2) {
     margin-top: 0;
   }
+
   input#menuToggle,
-  input#menuToggle + label {
+input#menuToggle + label {
     display: none;
   }
 }
-
 @media (min-width: 992px) {
   html,
-  body {
+body {
     font-size: 19px;
   }
+
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 22rem;
   }
+
   .col-md-4 {
     float: left;
     width: 33.33333333%;
   }
+
   .col-md-8 {
     float: left;
     width: 66.66666667%;
   }
+
   .portfolio-container {
     width: 68rem;
   }
 }
-
 .element--center {
   display: block;
   margin-left: auto;
@@ -954,11 +934,9 @@ a.badge-tag:focus {
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
-
 .theme-base-08 .content a {
   color: #ac4142;
 }
-
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
@@ -966,11 +944,9 @@ a.badge-tag:focus {
 .theme-base-09 .sidebar {
   background-color: #d28445;
 }
-
 .theme-base-09 .content a {
   color: #d28445;
 }
-
 .theme-base-09 .related-posts li a:hover {
   color: #d28445;
 }
@@ -978,11 +954,9 @@ a.badge-tag:focus {
 .theme-base-0a .sidebar {
   background-color: #f4bf75;
 }
-
 .theme-base-0a .content a {
   color: #f4bf75;
 }
-
 .theme-base-0a .related-posts li a:hover {
   color: #f4bf75;
 }
@@ -990,11 +964,9 @@ a.badge-tag:focus {
 .theme-base-0b .sidebar {
   background-color: #90a959;
 }
-
 .theme-base-0b .content a {
   color: #90a959;
 }
-
 .theme-base-0b .related-posts li a:hover {
   color: #90a959;
 }
@@ -1002,11 +974,9 @@ a.badge-tag:focus {
 .theme-base-0c .sidebar {
   background-color: #75b5aa;
 }
-
 .theme-base-0c .content a {
   color: #75b5aa;
 }
-
 .theme-base-0c .related-posts li a:hover {
   color: #75b5aa;
 }
@@ -1014,11 +984,9 @@ a.badge-tag:focus {
 .theme-base-0d .sidebar {
   background-color: #6a9fb5;
 }
-
 .theme-base-0d .content a {
   color: #6a9fb5;
 }
-
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
 }
@@ -1026,11 +994,9 @@ a.badge-tag:focus {
 .theme-base-0e .sidebar {
   background-color: #aa759f;
 }
-
 .theme-base-0e .content a {
   color: #aa759f;
 }
-
 .theme-base-0e .related-posts li a:hover {
   color: #aa759f;
 }
@@ -1038,11 +1004,9 @@ a.badge-tag:focus {
 .theme-base-0f .sidebar {
   background-color: #8f5536;
 }
-
 .theme-base-0f .content a {
   color: #8f5536;
 }
-
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }

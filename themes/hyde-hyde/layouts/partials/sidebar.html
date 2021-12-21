@@ -9,7 +9,7 @@
         {{ $logoImage := (printf "%s%s" $.Site.BaseURL $strippedSlash) }}
           <img src="{{$logoImage}}" alt="Logo Image" class="element--center">
         {{ else }}
-          {{ .Site.Title }}
+          <span>HUGOでサイトを作ろう！<span>初心者向けチュートリアル</span></span>
         {{ end }}
         </a>
       </span>
@@ -33,7 +33,7 @@
     </div>
     <div class="collapsible-menu">
       <input type="checkbox" id="menuToggle">
-      <label for="menuToggle">{{ .Site.Title }}</label>
+      <label for="menuToggle"><span>HUGOでサイトを作ろう！<span>初心者向けチュートリアル</span></span></label>
       <div class="menu-content">
         {{ partial "sidebar/menu.html" . }}
         {{ partial "sidebar/social.html" . }}

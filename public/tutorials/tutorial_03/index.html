@@ -6,13 +6,13 @@
 
     <head>
     
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HRYXXMXZEP"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFNBPME2V0"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
-        gtag('config', 'G-HRYXXMXZEP');
+        gtag('config', 'G-HFNBPME2V0');
     </script>
     <link href="https://gmpg.org/xfn/11" rel="profile">
     
@@ -73,6 +73,8 @@
     <link rel="shortcut icon" href="/favicon.png">
     
     <link rel="stylesheet" href="/css/custom.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css">
+<script src="https://kit.fontawesome.com/f566fba283.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -84,7 +86,7 @@
       <span class="site__title">
         <a href="https://hugo-site-tutorial.netlify.app">
         
-          HUGOでサイトを作ろう！初心者向けチュートリアル
+          <span>HUGOでサイトを作ろう！<span>初心者向けチュートリアル</span></span>
         
         </a>
       </span>
@@ -104,7 +106,7 @@
     </div>
     <div class="collapsible-menu">
       <input type="checkbox" id="menuToggle">
-      <label for="menuToggle">HUGOでサイトを作ろう！初心者向けチュートリアル</label>
+      <label for="menuToggle"><span>HUGOでサイトを作ろう！<span>初心者向けチュートリアル</span></span></label>
       <div class="menu-content">
         <div>
 	<ul class="sidebar-nav">
@@ -227,7 +229,7 @@
     
     
     <br/>
-    <i class="fas fa-clock"></i> 3 min read
+    <i class="fas fa-clock"></i> 2 min read
 </div>
 
 
@@ -246,7 +248,7 @@
 </figure>
 
 <blockquote >
-    <strong>Note:</strong><br>
+    <strong><i class="fas fa-edit"></i></strong>
     <p>「example_site」フォルダを開いてみると、このように</p>
 <ul>
 <li>archetypes</li>
@@ -261,67 +263,60 @@
 
 </blockquote>
 
-<h3 id="archetypes">archetypes</h3>
+<h3 id="archetypes-アーキタイプフォルダ">archetypes アーキタイプフォルダ</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはアーキタイプフォルダと呼ばれています。あまり頻繁に使うことはないでしょう。</p>
+    <strong><i class="fas fa-edit"></i></strong>
+    <p>このフォルダはあまり頻繁に使うことはないでしょう。</p>
 <p>archetypes には HUGO の他のページで参照されるデータ（タイトル、日付など）の項目を設定しておけます。</p>
 <p>新しくページを作成するとき、自動的にこのフォルダのデータ項目が適用されます。</p>
 
 </blockquote>
 
-<h3 id="content">content</h3>
+<h3 id="content-コンテンツフォルダ">content コンテンツフォルダ</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはコンテント（コンテンツ）フォルダと呼ばれています。</p>
-<p>ブログの記事やニュース、とにかくサイトの様々なコンテンツをしまっておくフォルダです。かなり頻繁に使います。</p>
+    <strong><i class="fas fa-edit"></i></strong>
+    <p>ブログの記事やニュース、とにかくサイトの様々なコンテンツをしまっておくフォルダです。頻繁に使います。</p>
 <p>この記事もこのフォルダに格納してあります。</p>
 
 </blockquote>
 
-<h3 id="data">data</h3>
+<h3 id="data-データフォルダ">data データフォルダ</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはデータフォルダと呼ばれています。</p>
-<p>一般的な Web サイトのデータベースみたいなものです。様々なデータをしまっておけます。</p>
-<p>SSG なので本当のデータベースを使用することができませんが、このフォルダがデータベースの代わりになっています。</p>
+    <strong><i class="fas fa-edit"></i></strong>
+    <p>データベースように機能してくれるフォルダです。様々なデータをしまっておけます。</p>
+<p>SSG なので本当のデータベースを使用することができませんが、このフォルダをデータベースの代わりのように使うことができます。</p>
 
 </blockquote>
 
-<h3 id="layouts">layouts</h3>
+<h3 id="layouts-レイアウトフォルダ">layouts レイアウトフォルダ</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはレイアウツフォルダと呼ばれています。</p>
-<p>サイトのレイアウトに関するファイルをしまっておくフォルダです。</p>
-<p>例えば全ページにヘッダーとフッターをつけたい、とか、TOP ページには「ニュース」を表示させたい、などのレイアウトを細かく分けて設定できます。</p>
+    <strong><i class="fas fa-edit"></i></strong>
+    <p>サイトのレイアウトに関するファイルをしまっておくフォルダです。</p>
+<p>例えば全ページにヘッダーとフッターをつけたい、とか、TOP ページには「ニュース」を表示させたい、などのレイアウトを設定できます。</p>
 
 </blockquote>
 
-<h3 id="static">static</h3>
+<h3 id="static-スタティックフォルダ">static スタティックフォルダ</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはスタティックフォルダと呼ばれています。</p>
-<p>スタティックエレメンツ（静的要素）を保管しておくフォルダです。</p>
-<p>スタティックエレメンツ（静的要素）とはユーザーの動きに影響されて変化しないもの、みたいなイメージです。</p>
-<p>簡単に言うとこのフォルダには img ファイルや css ファイルなどを格納しておきます。</p>
+    <strong><i class="fas fa-edit"></i></strong>
+    <p>スタティックエレメンツ（静的要素）を保管しておくフォルダです。</p>
+<p>スタティックエレメンツ（静的要素）とはユーザーの動きに影響されて変化しないもの、みたいなイメージでなんとなく捉えておいてください。簡単に言うとimg ファイルや css ファイルなどです。</p>
+<p>それらのファイルをこのフォルダに格納します。</p>
 
 </blockquote>
 
-<h3 id="themes">themes</h3>
+<h3 id="themes-テーマフォルダ">themes テーマフォルダ</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはテーマフォルダと呼ばれています。英語だと「シームスフォルダ」と発音されています。</p>
-<p>誰かが作ったオシャレなテーマをダウンロードしてこのフォルダに格納して使います。</p>
-<p>テーマが適用されると自動的にオシャレな見た目のサイトができます。</p>
+    <strong><i class="fas fa-edit"></i></strong>
+    <p>誰かが作ったオシャレなテーマをダウンロードしてこのフォルダに格納して使います。</p>
+<p>テーマが適用されるとCSSを書かなくても自動的にオシャレな見た目のサイトができます。</p>
 
 </blockquote>
 
-<h3 id="configtoml">config.toml</h3>
+<h3 id="configtoml-コンフィグファイル">config.toml コンフィグファイル</h3>
 <blockquote >
-    <strong>Note:</strong><br>
-    <p>このフォルダはコンフィグドットトモルファイル（コンフィグファイル）と呼ばれています。</p>
-<p>サイトの設定をデータとして格納しておく場所です。</p>
-
+    <strong><i class="fas fa-edit"></i></strong>
+    サイトの設定をデータとして格納しておく場所です。
 </blockquote>
 
 
