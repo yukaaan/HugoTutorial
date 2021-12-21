@@ -26,7 +26,7 @@ CSS や HTML を書かなくても（最小限で）かっこいい見た目の�
 
 HUGO 公式サイトからテーマを選び、ダウンロードする方法を説明します。
 
-#### まずは[HUGO 公式サイト](https://themes.gohugo.io/)へ行き、テーマのギャラリーを見てみましょう。
+#### 1.まずは[HUGO 公式サイト](https://themes.gohugo.io/)へ行き、テーマのギャラリーを見てみましょう。
 
 {{< figure src="/media/img/tutorial_04/tutorial_04_01.png" alt="テーマのDL方法1" width="1714" height="722" >}}
 
@@ -38,7 +38,7 @@ HUGO 公式サイトからテーマを選び、ダウンロードする方法を
 
 {{< /note >}}
 
-#### GitHub へ移動したら、緑色の「Code」ボタンをクリックして「Download ZIP」よりダウンロードを開始します。
+#### 2.GitHub へ移動したら、緑色の「Code」ボタンをクリックして「Download ZIP」よりダウンロードを開始します。
 
 {{< figure src="/media/img/tutorial_04/tutorial_04_02.png" alt="テーマのDL方法2" width="1547" height="809" >}}
 
@@ -50,7 +50,7 @@ HUGO 公式サイトからテーマを選び、ダウンロードする方法を
 
 {{< /note >}}
 
-#### Zip ファイルを解凍します。解凍場所は「theme」フォルダの中です。
+#### 3.Zip ファイルを解凍します。解凍場所は「theme」フォルダの中です。
 
 {{< note >}}
 
@@ -60,7 +60,7 @@ HUGO 公式サイトからテーマを選び、ダウンロードする方法を
 
 {{< /note >}}
 
-#### 解凍したファイルの名前を変更する
+#### 4.解凍したファイルの名前を変更する
 
 {{< figure src="/media/img/tutorial_04/tutorial_04_03.png" alt="テーマのDL方法3" width="813" height="430" >}}
 

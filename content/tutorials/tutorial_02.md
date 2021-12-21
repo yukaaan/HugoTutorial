@@ -14,7 +14,7 @@ description: "HUGOを使ってサイトを作成するの手順について掲�
 とりあえずサイトをつくってみます。
 HUGO ではコマンドを入力して新しいサイトを作成します。
 
-#### 1. コマンドプロンプトまたは VSCode のターミナルを立ち上げます。
+### コマンドプロンプトまたは VSCode のターミナルを立ち上げます。
 
 {{< figure src="/media/img/tutorial_02/tutorial_02_01.png" alt="コマンドプロンプト" width="396" height="201" >}}
 
@@ -28,7 +28,7 @@ HUGO ではコマンドを入力して新しいサイトを作成します。
 VSCode の場合は Ctrl + @ でショートカットでターミナルが開けます。
 {{< /note >}}
 
-#### 2. [Tutorial No.01](/tutorials/tutorial_01)で作成した「Hugo」フォルダへ移動します。
+### [Tutorial No.01](/tutorials/tutorial_01)で作成した「Hugo」フォルダへ移動します。
 
 {{< figure src="/media/img/tutorial_02/tutorial_02_03.png" alt="フォルダ1" width="781" height="422" >}}
 
@@ -45,7 +45,7 @@ VSCode の場合は Ctrl + @ でショートカットでターミナルが開け
 そして Enter すると「C:￥ Hugo」に移動できます。
 {{< /note >}}
 
-#### 3. コマンド　`hugo new site example_site`　を入力します。
+### コマンド`hugo new site example_site`を入力します。
 
 {{< figure src="/media/img/tutorial_02/tutorial_02_06.png" alt="コマンド入力2" width="835" height="321" >}}
 

@@ -1,3 +1,8 @@
+@charset "UTF-8";
+.content {
+  max-width: calc(1650px - 18rem);
+}
+
 .sidebar .site__title a {
   font-size: 23px;
 }
@@ -6,18 +11,46 @@
   font-size: 1rem;
 }
 
-h3 {
-  margin-top: 3em;
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 700;
 }
 
+h2 {
+  padding-left: 20px;
+  position: relative;
+}
+h2:before {
+  position: absolute;
+  content: "";
+  border-left: 5px solid blue;
+  top: 0;
+  left: 0;
+  width: 5px;
+  height: 120%;
+}
+
+h3 {
+  margin-top: 3em;
+  padding-left: 20px;
+  position: relative;
+}
+h3:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 15px;
+  color: blue;
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+}
 @media screen and (max-width: 768px) {
   h3 {
     margin-top: 1.5em;
   }
-}
-
-.content {
-  max-width: calc(1650px - 18rem);
 }
 
 blockquote {
@@ -26,16 +59,13 @@ blockquote {
   border-radius: 0 0 6px 6px;
   font-size: 16px;
 }
-
 blockquote > p {
   margin: 0;
   font-size: 16px;
 }
-
 blockquote > p + p {
   margin: 0;
 }
-
 blockquote + figure {
   margin-top: 35px;
 }
@@ -50,7 +80,6 @@ figure {
   border-bottom: none;
   border-radius: 10px 10px 0 0;
 }
-
 figure img {
   margin: 0 auto;
   height: auto;
