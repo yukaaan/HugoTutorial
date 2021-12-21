@@ -3,8 +3,19 @@
   @media screen and (min-width: 768px) {
     margin-left: 20rem;
   }
+  ul.posts {
+    li {
+      &::marker {
+        content: none;
+      }
+      a {
+        .fas {
+          margin-right: 10px;
+        }
+      }
+    }
+  }
 }
-
 .sidebar {
   width: 20rem;
   @media screen and (max-width: 768px) {

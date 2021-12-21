@@ -7,6 +7,12 @@
     margin-left: 20rem;
   }
 }
+.content ul.posts li::marker {
+  content: none;
+}
+.content ul.posts li a .fas {
+  margin-right: 10px;
+}
 
 .sidebar {
   width: 20rem;
