@@ -2,6 +2,13 @@
 .content {
   max-width: calc(1650px - 20rem);
 }
+@media (min-width: 768px) {
+  .content .content {
+    margin-left: 20rem;
+    margin-right: 2rem;
+    max-width: 38rem;
+  }
+}
 
 .sidebar {
   width: 20rem;
