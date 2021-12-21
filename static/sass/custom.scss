@@ -52,11 +52,14 @@ h3 {
 blockquote {
   background-color: #f6f6f6;
   margin-top: 0;
+  padding: 30px 20px;
   border-radius: 0 0 6px 6px;
   font-size: 16px;
+  color: #333;
+  border-left-color: #a1a1a1;
   > p {
     margin: 0;
-    font-size: 16px;
+    font-size: 18px;
     + p {
       margin: 0;
     }
@@ -64,13 +67,17 @@ blockquote {
   + figure {
     margin-top: 35px;
   }
+  code {
+    background-color: #fff;
+  }
 }
 code {
   background-color: #f2f2f2;
 }
+
 figure {
   padding: 30px;
-  border: 2px solid #f6f6f6;
+  border: 5px solid #f6f6f6;
   border-bottom: none;
   border-radius: 10px 10px 0 0;
   img {
@@ -82,5 +89,21 @@ figure {
   a {
     display: block;
     padding: 10px;
+  }
+}
+.navigation {
+  &.navigation-single {
+    a {
+      max-width: 300px;
+      transition: 0.5s;
+      @media screen and (min-width: 769px) {
+        &:hover {
+          background-color: rgba(194, 37, 92, 0.9);
+          color: #fff;
+          padding: 15px;
+          border-width: 2px;
+        }
+      }
+    }
   }
 }
